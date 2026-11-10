@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:stateless_lab_exam/main.dart';
-import 'package:stateless_lab_exam/shopping_cart_page.dart';
+import 'package:stateless_lab_exam/masayon_main.dart';
+import 'package:stateless_lab_exam/masayon_shopping_cart_page.dart';
 
 void main() {
   testWidgets('Buttons log messages and keep the cart fixed', (tester) async {
